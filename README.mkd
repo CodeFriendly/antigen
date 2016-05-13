@@ -27,7 +27,7 @@ sample, if you will.
 
 Get and load antigen.
 
-    curl -L https://raw.githubusercontent.com/zsh-users/antigen/master/antigen.zsh > antigen.zsh
+    curl -L https://raw.githubusercontent.com/CodeFriendly/antigen/master/antigen.zsh > antigen.zsh
     source antigen.zsh
 
 There. You now have all the antigen goodies. Let's try install some plugins. How
@@ -95,7 +95,7 @@ your shell all the time. Sweet. Let's do it.
 First, clone this repo, probably as a submodule if you have your dotfiles in a
 git repo,
 
-    git clone https://github.com/zsh-users/antigen.git
+    git clone https://github.com/CodeFriendly/antigen.git
 
 The usage should be very familiar to you if you use Vundle. A typical `.zshrc`
 might look like this
